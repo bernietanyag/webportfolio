@@ -8,6 +8,7 @@
 #navbarsection {
 	font-family: Trirong;
 	font-size: large;
+	position: sticky;
 	color: white;
 	background: white;
 }
