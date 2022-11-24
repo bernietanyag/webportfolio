@@ -1,0 +1,32 @@
+#navbarsection {
+	font-family: Trirong;
+	font-size: large;
+	color: white;
+	background: white;
+}
+#profilesection {
+	font-family: audiowide;
+	color: white;
+	background-image:url(https://wallpaperaccess.com/full/2454628.png);
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+
+}
+#projects {
+	font-family: cormorant;
+	
+}
+#contactme {
+	font-family: trirong;
+	background-image:url(https://wallpaperaccess.com/full/2454628.png);
+}
+.list-group-item {
+	font-family: Alegreya;
+	font-style: italic;
+
+}
+#socmed {
+	font-family: cormorant;
+	list-style: none;
+}
